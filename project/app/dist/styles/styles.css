@@ -6,7 +6,9 @@ body{
           columns: 300px 2;
 }
 
-.box a {
+.box{
+  a {
     display: block;
     padding: 10px;
   }
+}
